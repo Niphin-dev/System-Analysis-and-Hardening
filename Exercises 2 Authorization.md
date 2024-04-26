@@ -1,6 +1,6 @@
 Exercises to System Analysis and Hardening - 2
 
-Authorization
+Authorization:
 
 Linux Exercise 1 - Simple Permissions
 
